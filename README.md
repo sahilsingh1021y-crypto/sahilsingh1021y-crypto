@@ -28,7 +28,7 @@ Hi, I’m Sahil Kumar 👋
 
 Tech Stack
 
-Python | HTML | CSS | JavaScript | Git | GitHub
+Python | C++ | HTML | CSS | JavaScript | Git | GitHub 
 
 Goals for 2026
 
