@@ -23,8 +23,8 @@ Hi, I’m Sahil Kumar 👋
 
 📫 Connect with me:
 
-* LinkedIn: [Your LinkedIn]
-* Email: [Your Email]
+* LinkedIn: www.linkedin.com/in/thesahilkumar
+* Email: iamsahilbaby@gmail.com
 
 Tech Stack
 
