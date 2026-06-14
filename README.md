@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I’m Sahil Kumar 👋
 
-<!--
-**sahilsingh1021y-crypto/sahilsingh1021y-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Lovely Professional University (LPU)
 
-Here are some ideas to get you started:
+💻 Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python Development
+* Data Structures & Algorithms
+* Web Development
+* Artificial Intelligence
+
+🚀 Currently Learning:
+
+* DSA with Python
+* Git & GitHub
+* Full Stack Development
+
+📈 Coding Profiles:
+
+* LeetCode
+* HackerRank
+* GeeksforGeeks
+
+📫 Connect with me:
+
+* LinkedIn: [Your LinkedIn]
+* Email: [Your Email]
+
+Tech Stack
+
+Python | HTML | CSS | JavaScript | Git | GitHub
+
+Goals for 2026
+
+* Solve 300+ DSA problems
+* Build 10 projects
+* Secure a software internship
